@@ -20,4 +20,7 @@ Database Used: MySQL (or SQLite — update to match what you actually configured
 5. Run `php artisan serve` and visit `http://127.0.0.1:8000`.
 
 ## Screenshots
-(coming because its not done yet)
+<img width="1870" height="928" alt="image" src="https://github.com/user-attachments/assets/6d896940-1a6c-45b6-a53e-d5642f09c6d8" />
+<img width="1905" height="982" alt="image" src="https://github.com/user-attachments/assets/1e6c5d6c-e11c-4298-bc6d-fb882b5b00f7" />
+
+
